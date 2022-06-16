@@ -1,8 +1,6 @@
-# Peradine: this action builds the website on node versions 16, 17, and 18; it will fail if there is a problem with the site setup or Docusaurus
-
 name: Build Docusaurus
 
-on: [pull_request]
+on: [push]
 
 jobs:
   build:
