@@ -1,4 +1,4 @@
-# About
+# DocsRef
 
 DocsRef is a collection of information, reference material, and tools for medical doctors
 
