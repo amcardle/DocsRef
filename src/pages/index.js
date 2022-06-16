@@ -13,7 +13,11 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <div className={styles.buttons}>
-          Work in Progress
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/">
+            Docs
+          </Link>
         </div>
       </div>
     </header>
@@ -25,7 +29,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Docsref">
+      description="DocRef">
       <HomepageHeader />
       <main>
       </main>
