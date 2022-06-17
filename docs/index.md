@@ -7,8 +7,7 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-## Shortcuts
-### Cornwall
+## Cornwall
 - [Kernow Referral Management Service (RMS) Guidelines](https://rms.kernowccg.nhs.uk/primary_care_clinical_referral_criteria)
 - [Cornwall Primary Care Antimicrobial Guidelines](https://viewer.microguide.global/guide/1000000207)
 - [Acute GP Cornwall Guidelines](https://www.acutegpcornwall.com/)
@@ -18,7 +17,7 @@ import TOCInline from '@theme/TOCInline';
 - [BestBETs (Best Evidence Topics)](https://bestbets.org/)
 - [Antimicrobial Guidelines - Cornwall Primary Care 2020 PDF](attachments/KernowAntimicrobialGuidelines2020.pdf )
 
-### Reference and Guidelines
+## Reference and Guidelines
 - [BNF](https://bnf.nice.org.uk/)
 - [BNF Children](https://bnfc.nice.org.uk/)
 - [EMC](https://www.medicines.org.uk/emc)
@@ -36,16 +35,16 @@ import TOCInline from '@theme/TOCInline';
 - [RightBreathe Inhaler Information](https://www.rightbreathe.com/)
 - [Government Infectious Disease Guidelines](https://www.gov.uk/topic/health-protection/infectious-diseases)
 
-### Royal College of GPs
+## Royal College of GPs
 - [My RCGP](https://www.rcgp.org.uk/my-rcgp.aspx)
 - [RCGP ePortfolio](https://www.fourteenfish.com/portfolio)
 
-### eLearning
+## eLearning
 - [RCGP eLearning](https://elearning.rcgp.org.uk/)
 - [RCGP Essential Knowledge Update](https://elearning.rcgp.org.uk/course/index.php?categoryid=2)
 - [BMJ Online Learning](https://new-learning.bmj.com/)
 
-### Calculators
+## Calculators
 - **[MDCalc](https://www.mdcalc.com/)**
 - **[MedScape Calculators](https://reference.medscape.com/guide/medical-calculators)**
 - **[Patient.info Calculators](https://patient.info/medical-calculators)**
