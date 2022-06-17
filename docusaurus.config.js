@@ -30,7 +30,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: `https://github.com/Peradine/Docsref/blob/${process.env.CF_PAGES_BRANCH}/`,
+          editUrl: `https://github.com/Peradine/Docsref/edit/${process.env.CF_PAGES_BRANCH}/`,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
