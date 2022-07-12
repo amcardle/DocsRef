@@ -17,6 +17,12 @@ import TOCInline from '@theme/TOCInline';
 - [BestBETs (Best Evidence Topics)](https://bestbets.org/)
 - [Antimicrobial Guidelines - Cornwall Primary Care 2020 PDF](attachments/KernowAntimicrobialGuidelines2020.pdf )
 
+### Cornwall GPST
+- [Peninsula School of Primary Care](https://primarycare.peninsuladeanery.nhs.uk/)
+- [Cornwall GP VTS Website](https://gp-training.hee.nhs.uk/cornwall/)
+- [Cornwall GP Teaching Rota](https://docs.google.com/document/d/1Vo5LZbB2s5lXR_JRyIMSrIcvG2wu2fg-xGB-Lu3PnKc/edit)
+- [Learning Log recommendations (Naturally Occurring Evidence)](https://primarycare.peninsuladeanery.nhs.uk/about-us/gp-specialty-trainees/learning-log-recommendations-naturally-occurring-evidence/)
+
 ## Reference and Guidelines
 - [BNF](https://bnf.nice.org.uk/)
 - [BNF Children](https://bnfc.nice.org.uk/)
