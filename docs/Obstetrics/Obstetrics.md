@@ -113,9 +113,9 @@ For CSE:
 
 - Epidural top up of 20 ml: 10 ml 2% Lidocaine + 10 ml 0.5% Levobupivacaine
 - Administer in divided doses of 5 ml
-- At the end of surgery or before removal of the epidural catheter give: 3mg diamorphine or 3mg preservative-free morphine
+- The block may be enhanced by adding fentanyl 50-100mcg
+- At the end of surgery or before removal of the epidural catheter give: 3 mg diamorphine or 2 mg preservative-free morphine
 - If unable to effectively top-up epidural, give spinal with ~30% reduction in levobupivacaine dose
-
 
 ## C-Section
 
