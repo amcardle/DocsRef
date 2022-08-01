@@ -40,6 +40,7 @@ import TOCInline from '@theme/TOCInline';
 - [British Association of Dermatologist Patient Information](https://www.bad.org.uk/for-the-public/patient-information-leaflets)
 - [RightBreathe Inhaler Information](https://www.rightbreathe.com/)
 - [Government Infectious Disease Guidelines](https://www.gov.uk/topic/health-protection/infectious-diseases)
+- [Body Reprogramming for central sensitivity syndromes](http://www.bodyreprogramming.org/)
 
 ## Royal College of GPs
 - [My RCGP](https://www.rcgp.org.uk/my-rcgp.aspx)
