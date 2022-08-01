@@ -36,7 +36,7 @@ import TOCInline from '@theme/TOCInline';
 - [Patient.info](https://patient.info/)
 - [Medscape](https://emedicine.medscape.com/)
 - [Department of Work and Pensions Guidelines (DWP) Guidelines](https://www.gov.uk/government/collections/healthcare-practitioners-guidance-and-information-from-dwp)
-- [Faculty of Sexual and Reproductive Healthcare Guidlines](https://www.fsrh.org/standards-and-guidance/)
+- [Faculty of Sexual and Reproductive Healthcare Guidelines](https://www.fsrh.org/standards-and-guidance/)
 - [British Association of Dermatologist Patient Information](https://www.bad.org.uk/for-the-public/patient-information-leaflets)
 - [RightBreathe Inhaler Information](https://www.rightbreathe.com/)
 - [Government Infectious Disease Guidelines](https://www.gov.uk/topic/health-protection/infectious-diseases)
