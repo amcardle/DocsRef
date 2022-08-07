@@ -15,5 +15,6 @@
 - [Chidren's BNF](https://bnfc.nice.org.uk/)
 - [Medicines For Children - Detailed Advice Leaflets](https://www.medicinesforchildren.org.uk/)
 - [Obesity Dosing Guidelines](https://www.sps.nhs.uk/articles/how-should-medicines-be-dosed-in-children-who-are-obese/)  [PDF](attachments/UKMIQA-drug-dosing-in-childhood-obesity.pdf)
+	- If BMI above 98th centile and age over 2- use ideal body weight - reverse BMI method, ie BMI at 50th centile
 
 
