@@ -1,4 +1,4 @@
-# Emergency
+# ❗️Emergency
 ## - [Anaphylaxis](anaphylaxis.md)
 ## - [Bradycardia](Bradycardia.md)
 ## - [Cardiac Arrest](Cardiac%20Arrest.md)

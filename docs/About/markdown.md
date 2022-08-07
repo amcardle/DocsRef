@@ -1,8 +1,9 @@
 # Markdown
 
-🔗
-📃 📄 📑
-🛠
+🔗 - external link
+
+ 📄 - PDF / Document
+🛠 - Tool
 
 
 ## Headers
