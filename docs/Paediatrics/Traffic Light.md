@@ -1,6 +1,8 @@
 # NICE Traffic Lights
 Traffic light system for identifying risk of serious illness in under 5s
 
+[NICE Febrile Illness in Under 5s Guideline](https://www.nice.org.uk/guidance/NG143)  - [PDF](attachments/NICE%20fever%20under%205.pdf)
+
 All red children should be seen face to face by a clinician with paediatric training
 
 Amber cases should be referred depending on the patient's age, your level of concern, and the family's ability to be manage the child's illness
