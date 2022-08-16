@@ -44,7 +44,6 @@ import TOCInline from '@theme/TOCInline';
 - [🔗 Patient.info](https://patient.info/)
 - [🔗 Medscape](https://emedicine.medscape.com/)
 
-
 ## Calculators
 - **[🛠 MDCalc](https://www.mdcalc.com/)**
 - **[🛠 MedScape Calculators](https://reference.medscape.com/guide/medical-calculators)**
@@ -73,7 +72,6 @@ import TOCInline from '@theme/TOCInline';
 ## Occupation
  - [🔗 Department of Work and Pensions Guidelines (DWP) Guidelines](https://www.gov.uk/government/collections/healthcare-practitioners-guidance-and-information-from-dwp)
 
-
 ## Orthopaedics
 - [Shoulder](Orthopaedics/Shoulder.md)
 
@@ -83,17 +81,17 @@ import TOCInline from '@theme/TOCInline';
 ## [Paediatrics](Paediatrics/index.md)
 - [🔗 BNF Children](https://bnfc.nice.org.uk/)
 - [Limping Child](Paediatrics/Limping%20Child.md)
-- [Paediatric-Observations-Normal-Range](Paediatrics/Paediatric-Observations-Normal-Range.md)
-- [Traffic Light](Paediatrics/Traffic%20Light.md)
+- [Paediatric Normal Ranges](Paediatrics/Paediatric-Observations-Normal-Range.md)
+- [NICE Traffic Lights](Paediatrics/Traffic%20Light.md)
+- [PEWS](Paediatrics/PEWS.md)
 
-### [STSC](Paediatrics/STSC/STSC.md)
+### [Spotting the Sick Child](Paediatrics/STSC/STSC.md)
 - [Dehydration](Paediatrics/STSC/Dehydration.md)
 - [Dyspnoea](Paediatrics/STSC/Dyspnoea.md)
 - [Fever](Paediatrics/STSC/Fever.md)
 - [Fit](Paediatrics/STSC/Fit.md)
 - [Head Injury](Paediatrics/STSC/Head%20Injury.md)
 - [Rash](Paediatrics/STSC/Rash.md)
-
 
 ## Pain
 - [🔗 Body Reprogramming for central sensitivity syndromes](http://www.bodyreprogramming.org/)
@@ -118,7 +116,6 @@ import TOCInline from '@theme/TOCInline';
 ## Royal College of GPs
 - [🔗 My RCGP](https://www.rcgp.org.uk/my-rcgp.aspx)
 - [🔗 RCGP ePortfolio](https://www.fourteenfish.com/portfolio)
-
 
 ## eLearning
 - [🔗 RCGP eLearning](https://elearning.rcgp.org.uk/)
