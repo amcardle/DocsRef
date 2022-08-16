@@ -30,7 +30,7 @@ return {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          remarkPlugins: [mdxMermaid],
+          remarkPlugins: [mdxMermaid.default],
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
