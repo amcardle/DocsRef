@@ -1,5 +1,11 @@
 # Markdown
 
+🔗 - external link
+
+ 📄 - PDF / Document
+🛠 - Tool
+
+
 ## Headers
 
 ```md
@@ -339,3 +345,12 @@ I need to highlight these <mark>very important words</mark>.
 
 
 I need to highlight these <mark>very important words</mark>.
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```

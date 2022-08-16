@@ -1,10 +1,13 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
+
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+
+async function createConfig() {
+  const mdxMermaid = await import('mdx-mermaid')
+return {
   title: `Docsref ${process.env.CF_PAGES_BRANCH == "beta" ? "beta" : ""}`,
   tagline: `Docsref ${process.env.CF_PAGES_BRANCH == "beta" ? "beta" : ""}`,
   url: 'https://Docsref.pages.dev',
@@ -27,10 +30,11 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          remarkPlugins: [mdxMermaid.default],
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: `https://github.com/Peradine/Docsref/blob/${process.env.CF_PAGES_BRANCH}/`,
+          editUrl: `https://github.com/Peradine/Docsref/edit/${process.env.CF_PAGES_BRANCH}/`,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -74,7 +78,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/index',
+                to: '/docs/',
               },
             ],
           },
@@ -131,6 +135,5 @@ const config = {
       },
     ],
   ],
-};
-
-module.exports = config;
+}};
+module.exports = createConfig;
