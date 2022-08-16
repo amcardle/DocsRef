@@ -58,17 +58,24 @@ import TOCInline from '@theme/TOCInline';
 - **[🛠 GPCOG](https://patient.info/doctor/general-practitioner-assessment-of-cognition-gpcog-score)** GP screening tool for dementia
 - **[🛠 NAFLD](https://nafldscore.com/)** fibrosis score
 
+## Dermatology
+- [🔗 British Association of Dermatologist Patient Information](https://www.bad.org.uk/for-the-public/patient-information-leaflets)
+
 ## Medication
  [🔗 BNF](https://bnf.nice.org.uk/)
 - [🔗 BNF Children](https://bnfc.nice.org.uk/)
 - [🔗 EMC](https://www.medicines.org.uk/emc)
 - [Local Anaesthetic](Drugs/Local%20Anaesthetic.md)
 
-## Orthopaedics
-- [Shoulder](Orthopaedics/Shoulder.md)
-
 ## Microbiology
  - [🔗Government Infectious Disease Guidelines](https://www.gov.uk/topic/health-protection/infectious-diseases)
+
+## Occupation
+ - [🔗 Department of Work and Pensions Guidelines (DWP) Guidelines](http-s://www.gov.uk/government/collections/healthcare-practitioners-guidance-and-information-from-dwp)
+
+
+## Orthopaedics
+- [Shoulder](Orthopaedics/Shoulder.md)
 
 ## Other
 - [Gender Variance](Other/Gender%20Variance.md)
@@ -100,20 +107,13 @@ import TOCInline from '@theme/TOCInline';
 - [AMTS](Psychiatry/AMTS.md)
 - [Compulsory Admission and Treatment](Psychiatry/Compulsory%20Admission%20and%20Treatment.md)
 
+## Reproductive and Sexual Health
+- [🔗 Faculty of Sexual and Reproductive Healthcare Guidelines](https://www.fsrh.org/standards-and-guidance/)
+
 ## Respiratory
 - [🔗RightBreathe Inhaler Information](https://www.rightbreathe.com/)
 - [COPD](Respiratory/COPD.md)
 - [Peak Flow](Respiratory/Peak%20Flow.md)
-
-## Reproductive and Sexual Health
-- [🔗 Faculty of Sexual and Reproductive Healthcare Guidelines](https://www.fsrh.org/standards-and-guidance/)
-
-## Dermatology
-- [🔗 British Association of Dermatologist Patient Information](https://www.bad.org.uk/for-the-public/patient-information-leaflets)
-
-## Occupation
- - [🔗 Department of Work and Pensions Guidelines (DWP) Guidelines](http-s://www.gov.uk/government/collections/healthcare-practitioners-guidance-and-information-from-dwp)
-
 
 ## Royal College of GPs
 - [🔗 My RCGP](https://www.rcgp.org.uk/my-rcgp.aspx)
