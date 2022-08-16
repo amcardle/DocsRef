@@ -10,20 +10,8 @@ import TOCInline from '@theme/TOCInline';
 <TOCInline toc={toc} />
 
 ## Cornwall
-- [🔗 Kernow Referral Management Service (RMS) Guidelines](https://rms.kernowccg.nhs.uk/primary_care_clinical_referral_criteria)
-- [🔗 Cornwall Primary Care Antimicrobial Guidelines](https://viewer.microguide.global/guide/1000000207)
-- [🔗 Acute GP Cornwall Guidelines](https://www.acutegpcornwall.com/)
-- [🔗 Cornwall Joint Formulary](https://www.eclipsesolutions.org/cornwall/)
-- [🔗 Cornwall GP Trainee Guidelines](https://gp-training.hee.nhs.uk/cornwall/useful-links/)
-- [🔗 GP Home](http://www.gphome.com/)
-- [🔗 BestBETs (Best Evidence Topics)](https://bestbets.org/)
-- [🔗 Antimicrobial Guidelines - Cornwall Primary Care 2020 PDF](attachments/KernowAntimicrobialGuidelines2020.pdf )
+-
 
-### Cornwall GPST
-- [🔗 Peninsula School of Primary Care](https://primarycare.peninsuladeanery.nhs.uk/)
-- [🔗 Cornwall GP VTS Website](https://gp-training.hee.nhs.uk/cornwall/)
-- [🔗 Cornwall GP Teaching Rota](https://docs.google.com/document/d/1Vo5LZbB2s5lXR_JRyIMSrIcvG2wu2fg-xGB-Lu3PnKc/edit)
-- [🔗 Learning Log recommendations (Naturally Occurring Evidence)](https://primarycare.peninsuladeanery.nhs.uk/about-us/gp-specialty-trainees/learning-log-recommendations-naturally-occurring-evidence/)
 
 ## Reference and Guidelines
 - [🔗 BNF](https://bnf.nice.org.uk/)
