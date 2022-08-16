@@ -71,7 +71,7 @@ import TOCInline from '@theme/TOCInline';
  - [🔗Government Infectious Disease Guidelines](https://www.gov.uk/topic/health-protection/infectious-diseases)
 
 ## Occupation
- - [🔗 Department of Work and Pensions Guidelines (DWP) Guidelines](http-s://www.gov.uk/government/collections/healthcare-practitioners-guidance-and-information-from-dwp)
+ - [🔗 Department of Work and Pensions Guidelines (DWP) Guidelines](https://www.gov.uk/government/collections/healthcare-practitioners-guidance-and-information-from-dwp)
 
 
 ## Orthopaedics
