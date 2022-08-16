@@ -1,11 +1,13 @@
 // Note: type annotations allow type checking and IDEs autocompletion
-import 'mdx-mermaid'
+
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+
+async function createConfig() {
+  const mdxMermaid = await import('mdx-mermaid')
+return {
   title: `Docsref ${process.env.CF_PAGES_BRANCH == "beta" ? "beta" : ""}`,
   tagline: `Docsref ${process.env.CF_PAGES_BRANCH == "beta" ? "beta" : ""}`,
   url: 'https://Docsref.pages.dev',
@@ -28,7 +30,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          remarkPlugins: [mdx-mermaid],
+          remarkPlugins: [mdxMermaid],
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -133,6 +135,5 @@ const config = {
       },
     ],
   ],
-};
-
-module.exports = config;
+}};
+module.exports = createConfig;
