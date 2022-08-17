@@ -5,6 +5,9 @@
 
 import TOCInline from '@theme/TOCInline';
 
+<TOCInline toc={toc} />
+
+
 ## [Emergency](Emergency/index.md)
 - [Anaphylaxis](Emergency/anaphylaxis.md)
 - [Bradycardia](Emergency/Bradycardia.md)
@@ -19,7 +22,7 @@ import TOCInline from '@theme/TOCInline';
 - [Tachycardia](Emergency/Tachycardia.md)
 
 ## Cornwall
- [🔗 Kernow Referral Management Service (RMS) Guidelines](https://rms.kernowccg.nhs.uk/primary_care_clinical_referral_criteria)
+ - [🔗 Kernow Referral Management Service (RMS) Guidelines](https://rms.kernowccg.nhs.uk/primary_care_clinical_referral_criteria)
 - [🔗 Cornwall Primary Care Antimicrobial Guidelines](https://viewer.microguide.global/guide/1000000207)
 - [🔗 Acute GP Cornwall Guidelines](https://www.acutegpcornwall.com/)
 - [🔗 Cornwall Joint Formulary](https://www.eclipsesolutions.org/cornwall/)
@@ -35,7 +38,7 @@ import TOCInline from '@theme/TOCInline';
 - [🔗 Learning Log recommendations (Naturally Occurring Evidence)](https://primarycare.peninsuladeanery.nhs.uk/about-us/gp-specialty-trainees/learning-log-recommendations-naturally-occurring-evidence/)
 
 ## Guidelines
- [🔗 NICE Guidance](https://www.nice.org.uk/guidance)
+ - [🔗 NICE Guidance](https://www.nice.org.uk/guidance)
 - [🔗 NICE CKS](https://cks.nice.org.uk/)
 - [🔗 NICE Pathways](https://pathways.nice.org.uk/)
 - [🔗 BMJ Best Practice](https://bestpractice.bmj.com/)
