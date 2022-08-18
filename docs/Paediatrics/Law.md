@@ -2,7 +2,7 @@
 
 ## Consent and Capacity
 
-Gillick (Fraser) competency - "the parental right to determine whether or not a child below the age of 16yrs will or will not have medical treatment terminates if and when the child achieves sufficient understanding and intelligence to enable him to understand fully what is proposed"
+Gillick competency - "the parental right to determine whether or not a child below the age of 16yrs will or will not have medical treatment terminates if and when the child achieves sufficient understanding and intelligence to enable him to understand fully what is proposed"
 
 
 "The adolescent must possess qualities associated with self-determination and self-identity, appropriate cognitive abilities, and the ability to rationalize and reason hypothetically. Understanding, intelligence, and experience are also important qualities that may determine competence"
@@ -38,6 +38,8 @@ Patient suffering from "mental illness, mental impairment, or psychopathy" (not 
 Note that the MHA regulates treatment of physical health problems only to the extent that such treatment is part of, or ancillary to, treatment for mental disorder. ie treating drug over-dose is permitted, but not an unrelated condition
 
 A patient on section 17 leave can be recalled at any time by the responsible clinician. The patient may also be given 'leave to reside in other hospitals' and can be kept in custody at that hospital
+
+Treatment requires a second opinion, except for urgent treatment to prevent serious deterioration or alleviate serious suffering, or to prevent the patient from becoming violent and endangering themselves or others
 ## Sources
 - Oxford Handbook of Paediatrics, 2nd edition
 - Oxford Handbook of Clinical Specialties

@@ -87,6 +87,7 @@ import TOCInline from '@theme/TOCInline';
 - [Paediatric Normal Ranges](Paediatrics/Paediatric-Observations-Normal-Range.md)
 - [NICE Traffic Lights](Paediatrics/Traffic%20Light.md)
 - [PEWS](Paediatrics/PEWS.md)
+- [Law](Paediatrics/Law.md)
 
 ### [Spotting the Sick Child](Paediatrics/STSC/STSC.md)
 - [Dehydration](Paediatrics/STSC/Dehydration.md)
