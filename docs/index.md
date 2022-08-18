@@ -104,6 +104,8 @@ import TOCInline from '@theme/TOCInline';
 - [Lower Back Pain](Pain/Lower%20Back%20Pain.md)
 
 ## Psychiatry
+- [📄Eating Disorder (MEED) Guidelines](Psychiatry/attachments/MEED%20Guidelines.pdf)
+- [📄 BMA Mental Capacity Act Toolkit](Psychiatry/attachments/bma-mental-capacity-act-toolkit-2016.pdf)
 - [Delirium](Psychiatry/Delirium.md)
 - [4-AT](Psychiatry/4-AT.md)
 - [AMTS](Psychiatry/AMTS.md)
