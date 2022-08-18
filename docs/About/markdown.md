@@ -189,6 +189,25 @@ Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 ---
 ## Details
 
+```html
+<details>
+  <summary>Toggle me!</summary>
+  <div>
+    <div>This is the detailed content</div>
+    <br/>
+    <details>
+      <summary>
+        Nested toggle! Some surprise inside...
+      </summary>
+      <div>
+        😲😲😲😲😲
+      </div>
+    </details>
+  </div>
+</details>
+
+```
+
 <details>
   <summary>Toggle me!</summary>
   <div>
@@ -346,6 +365,17 @@ I need to highlight these <mark>very important words</mark>.
 
 I need to highlight these <mark>very important words</mark>.
 
+## Mermaid Diagrams
+```markdown
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+```
+```
 
 ```mermaid
 graph TD;
