@@ -388,5 +388,9 @@ graph TD;
 
 
 <details>
+<summary>this is the details slider</summary>
+
 Details enables **markdown?**
+
+*italics*
 </details>
