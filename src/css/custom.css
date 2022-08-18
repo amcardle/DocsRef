@@ -37,12 +37,12 @@
 .sidenote {
     float: right;
     clear: right;
-    min-width: calc(100% - 400 px - 30px);
+    min-width: calc(100% - 770 px);
     margin: 10px 0 20px 30px;
     max-width: calc(100% - 350px);
 }
 
 
 .theme-doc-markdown {
-	max-width: 400px;
+	max-width: 800px;
 }
