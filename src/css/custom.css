@@ -37,7 +37,7 @@
 .sidenote {
     float: right;
     clear: right;
-    min-width: calc(100% - 770 px);
+    min-width: calc(100% - 800px - 30px);
     margin: 10px 0 20px 30px;
     max-width: calc(100% - 350px);
 }
