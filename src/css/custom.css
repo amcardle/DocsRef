@@ -32,3 +32,17 @@
 .pagination-nav {
   visibility: hidden;
 }
+
+
+.sidenote {
+    float: right;
+    clear: right;
+    min-width: calc(100% - 400 px - 30px);
+    margin: 10px 0 20px 30px;
+    max-width: calc(100% - 350px);
+}
+
+
+.theme-doc-markdown {
+	max-width: 400px;
+}
