@@ -32,23 +32,3 @@
 .pagination-nav {
   visibility: hidden;
 }
-
-
-.sidenote {
-    float: right;
-    clear: right;
-    min-width: calc(100% - 500px - 30px);
-    margin: 10px 0 20px 30px;
-    max-width: calc(100% - 350px);
-	font-size: 75%;
-}
-
-
-.theme-doc-markdown {
-	max-width: 1000px;
-}
-
-.p {
-	max-width: 400px;
-	display: inline-block;
-}
