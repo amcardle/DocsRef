@@ -3,11 +3,11 @@
 [🔗 BMA Guidelines on Inappropriate Workload](https://www.bma.org.uk/advice-and-support/gp-practices/managing-workload/pushing-back-on-inappropriate-workload)
 
 ## BMA Letters
-### Template response to secondary care work transfer
+### Secondary care work transfer
 ```
 Patient details: Dear X
 
-I refer to your request for this practice to undertake …………. (insert work requested). I enclose a copy of your request (optional).
+I refer to your request for this practice to undertake (insert work requested). I enclose a copy of your request (optional).
 
 I am sorry that we are unable undertake this work for the following reason (s): (Use as appropriate)
 
@@ -26,7 +26,7 @@ We have informed the patient that this work is not the responsibility of the pra
 Thank you for your understanding.
 ```
 
-### Template response to inappropriate prescribing requests
+### Inappropriate prescribing requests
 ```
 Patient details: Dear X
 
@@ -50,26 +50,26 @@ medication because:
 
 –      We are unable to prescribe this medication under shared care arrangements, since the prescribing of                 this medication has not been commissioned as a shared care enhanced service from this GP practice
 
-**We would be grateful if you would arrange for the patient to receive this medication via the hospital pharmacy or ideally via a hospital FPI0HP.** The patient could then use the latter to collect this medication from their local community pharmacy.
+We would be grateful if you would arrange for the patient to receive this medication via the hospital pharmacy or ideally via a hospital FPI0HP. The patient could then use the latter to collect this medication from their local community pharmacy.
 
-## The practice will be taking no further action with regard to this activity and the transfer of responsibility has not taken place.
+The practice will be taking no further action with regard to this activity and the transfer of responsibility has not taken place.
 
-**Additional comments:**
+(Additional comments:)
 
 ```
 
 
-### Template response to requests to follow up investigations performed in other settings
+### Requests to follow up investigations
 ```
 Dear X,
 
 Re: <<Patient Identifier Label>>
 
-We write in response to your letter regarding the above patient requesting that we chase up the …………………………………………. investigations undertaken by your department.
+We write in response to your letter regarding the above patient requesting that we chase up the (list) investigations undertaken by your department.
 
 A copy of your request is enclosed.
 
-The result of this investigation will automatically be sent to you or your department as the requesting clinician. Please note that as per GMC guidance, and more recently published NHS England [guidance](#_bookmark10) setting out **Standards for the communication of patient diagnostic test results on discharge from hospital**, it is the responsibility of the doctor requesting a test to take clinical responsibility to follow up and take appropriate action on the result.
+The result of this investigation will automatically be sent to you or your department as the requesting clinician. Please note that as per GMC guidance, and more recently published NHS England guidance setting out "Standards for the communication of patient diagnostic test results on discharge from hospital", it is the responsibility of the doctor requesting a test to take clinical responsibility to follow up and take appropriate action on the result.
 
 We would therefore respectfully request that you follow up the result and take any action accordingly. You will be aware of the pressure general practice is under, resulting from an ever-increasing workload. We would ask that you review your hospital policy on this issue, to avoid practices incurring inappropriate bureaucratic workload of chasing up results which are already in your possession, and which falls under your responsibility.
 
@@ -79,7 +79,7 @@ Yours faithfully
 
 ```
 
-### Template response to requests for post-operative checks
+### Requests for post-operative checks
 
 
 ```
@@ -93,7 +93,7 @@ This work falls outside the remit of the General Practice contract and has not b
 
 Pressure on general practice means that we cannot take on inappropriate or unresourced work outside our contract, since this would detract from our core duty of care to patients.
 ```
-### Letter to hospital provider regarding discharge of patients after missed appointment
+### Discharge of patients after missed appointment
 
 ```
 Dear x,
@@ -109,7 +109,7 @@ We are asking you to review your policy to either routinely send patients a furt
 We have copied our ICB  to inform them of this. We look forward to hearing from you.
 ```
 
-### Template letter to local ICB  regarding discharge of patients after missed appointment
+### Local ICB  regarding discharge of patients after missed appointment
 ```
 Dear ICB  Chair/CEO
 
@@ -134,7 +134,7 @@ We have written to hospital X separately to request that they review their polic
 We look forward to hearing from you.
 ```
 
-### Template letter to ICB  regarding inappropriate workload transfer
+### ICB  regarding inappropriate workload transfer
 
 ```
 Dear x,
@@ -154,7 +154,7 @@ With many thanks
 Cc LMC
 ```
 
-### Template letter for request to complete non-contractual administrative task
+### Request to complete non-contractual administrative task
 ```
 Dear x,
 
@@ -163,7 +163,7 @@ We recently received a request from you to carry out (insert description of work
 This work is not part of our contractual requirements. You will be aware that general practice is under unprecedented pressure, and therefore we are unable to carry out your request, since this would detract from our ability to provide core contracted services to our patients.
 ```
 
-### Template response to requests for work absence sick notes for less than seven days
+### Requests for work absence sick notes for less than seven days
 
 ```
 Dear x (employer name) (patient details)
@@ -174,7 +174,7 @@ Unfortunately, pressures on general practice mean that we are having to review o
 ```
 
 
-### Template letter to area team regarding delay to information request or payment
+### Area team regarding delay to information request or payment
 ```
 Dear x,
 
@@ -193,22 +193,22 @@ Please can we receive a response to our request by…
 We have copied the Local Medical Committee to assist us if the information is not forthcoming
 ```
 
-### Template letter to hospital provider regarding follow up of diagnostic test results following a patient’s discharge from hospital
+### Follow up of diagnostic test results following a patient’s discharge from hospital
 ```
 Dear X
 
 We received a copy of patient X’s results on
 
-You will be aware of published NHS England [guidance](https://www.england.nhs.uk/patientsafety/wp-content/uploads/sites/32/2016/03/discharge-standards-march-16.pdf) setting out **Standards for the communication of patient diagnostic test results on discharge from hospital_._** We therefore assume that this is for information only, and that a relevant clinician in your department has actioned this, in keeping with that [guidance](https://www.england.nhs.uk/patientsafety/wp-content/uploads/sites/32/2016/03/discharge-standards-march-16.pdf).
+You will be aware of published NHS England guidance (https://www.england.nhs.uk/patientsafety/wp-content/uploads/sites/32/2016/03/discharge-standards-march-16.pdf) setting out "Standards for the communication of patient diagnostic test results on discharge from hospital". We therefore assume that this is for information only, and that a relevant clinician in your department has actioned this, in keeping with that guidance.
 
-In future, can we suggest that you refrain from sending copies of results to this practice, unless it is of direct clinical relevance, and clearly marked **‘for information only’.**
+In future, can we suggest that you refrain from sending copies of results to this practice, unless it is of direct clinical relevance, and clearly marked ‘for information only’.
 
 We have copied our ICB  to inform them of this. We thank you for your understanding.
 
 Yours faithfully
 ```
 
-### Template letter to ICB  in response to requests to follow up investigations performed in other settings and diagnostic test results following a patient’s discharge from hospital
+### ICB  in response to requests to follow up investigations performed in other settings and diagnostic test results following a patient’s discharge from hospital
 ```
 Dear X,
 
