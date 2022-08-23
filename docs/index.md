@@ -63,6 +63,9 @@ import TOCInline from '@theme/TOCInline';
 ## Dermatology
 - [🔗 British Association of Dermatologist Patient Information](https://www.bad.org.uk/for-the-public/patient-information-leaflets)
 
+## General Practice
+- [Workload Pushback](GP/workload-pushback.md)
+
 ## Medication
  [🔗 BNF](https://bnf.nice.org.uk/)
 - [🔗 BNF Children](https://bnfc.nice.org.uk/)
