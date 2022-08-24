@@ -21,3 +21,6 @@
 ## 5-11 Years
 ![](attachments/Pasted%20image%2020220824184432.png)
 
+
+## NEWS Score
+![](attachments/Pasted%20image%2020220824184633.png)
