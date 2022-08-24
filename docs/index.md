@@ -7,7 +7,6 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-
 ## [Emergency](Emergency/index.md)
 - [Anaphylaxis](Emergency/anaphylaxis.md)
 - [Bradycardia](Emergency/Bradycardia.md)
@@ -67,7 +66,7 @@ import TOCInline from '@theme/TOCInline';
 - [Workload Pushback](GP/workload-pushback.md)
 
 ## Medication
- - [🔗 BNF](https://bnf.nice.org.uk/)
+- [🔗 BNF](https://bnf.nice.org.uk/)
 - [🔗 BNF Children](https://bnfc.nice.org.uk/)
 - [🔗 EMC](https://www.medicines.org.uk/emc)
 - [Local Anaesthetic](Drugs/Local%20Anaesthetic.md)
