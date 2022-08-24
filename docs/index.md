@@ -22,7 +22,7 @@ import TOCInline from '@theme/TOCInline';
 - [Tachycardia](Emergency/Tachycardia.md)
 
 ## Cornwall
- - [🔗 Kernow Referral Management Service (RMS) Guidelines](https://rms.kernowccg.nhs.uk/primary_care_clinical_referral_criteria)
+- [🔗 Kernow Referral Management Service (RMS) Guidelines](https://rms.kernowccg.nhs.uk/primary_care_clinical_referral_criteria)
 - [🔗 Cornwall Primary Care Antimicrobial Guidelines](https://viewer.microguide.global/guide/1000000207)
 - [🔗 Acute GP Cornwall Guidelines](https://www.acutegpcornwall.com/)
 - [🔗 Cornwall Joint Formulary](https://www.eclipsesolutions.org/cornwall/)
@@ -38,7 +38,7 @@ import TOCInline from '@theme/TOCInline';
 - [🔗 Learning Log recommendations (Naturally Occurring Evidence)](https://primarycare.peninsuladeanery.nhs.uk/about-us/gp-specialty-trainees/learning-log-recommendations-naturally-occurring-evidence/)
 
 ## Guidelines
- - [🔗 NICE Guidance](https://www.nice.org.uk/guidance)
+- [🔗 NICE Guidance](https://www.nice.org.uk/guidance)
 - [🔗 NICE CKS](https://cks.nice.org.uk/)
 - [🔗 NICE Pathways](https://pathways.nice.org.uk/)
 - [🔗 BMJ Best Practice](https://bestpractice.bmj.com/)
@@ -67,7 +67,7 @@ import TOCInline from '@theme/TOCInline';
 - [Workload Pushback](GP/workload-pushback.md)
 
 ## Medication
- [🔗 BNF](https://bnf.nice.org.uk/)
+ - [🔗 BNF](https://bnf.nice.org.uk/)
 - [🔗 BNF Children](https://bnfc.nice.org.uk/)
 - [🔗 EMC](https://www.medicines.org.uk/emc)
 - [Local Anaesthetic](Drugs/Local%20Anaesthetic.md)
