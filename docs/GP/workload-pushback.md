@@ -1,8 +1,11 @@
-[📄 BMA Form Letters - Pushing Back on Inappropriate Workload](attachments/bma-workload-management-gps-appendix-jul-2022.docx)
+# Pushback on Inappropriate Workload
+
+[Bureaucracy Concordat](https://www.gov.uk/government/publications/bureaucracy-busting-concordat-principles-to-reduce-unnecessary-bureaucracy-and-administrative-burdens-on-general-practice/bureaucracy-busting-concordat-principles-to-reduce-unnecessary-bureaucracy-and-administrative-burdens-on-general-practice) [(archive)](https://archive.ph/h5Xv5)
 
 [🔗 BMA Guidelines on Inappropriate Workload](https://www.bma.org.uk/advice-and-support/gp-practices/managing-workload/pushing-back-on-inappropriate-workload)
 
 ## BMA Letters
+[📄 BMA Form Letters - Pushing Back on Inappropriate Workload](attachments/bma-workload-management-gps-appendix-jul-2022.docx)
 ### Secondary care work transfer
 ```
 Patient details: Dear X
