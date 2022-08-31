@@ -85,6 +85,7 @@ import TOCInline from '@theme/TOCInline';
 
 ## [Paediatrics](Paediatrics/index.md)
 - [🔗 BNF Children](https://bnfc.nice.org.uk/)
+- [🔗 PILs and Safety Net Advice](https://what0-18.nhs.uk/professionals/gp-primary-care-staff/safety-netting-documents-parents)
 - [Limping Child](Paediatrics/Limping%20Child.md)
 - [Paediatric Normal Ranges](Paediatrics/Paediatric-Observations-Normal-Range.md)
 - [NICE Traffic Lights](Paediatrics/Traffic%20Light.md)
