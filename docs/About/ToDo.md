@@ -11,4 +11,4 @@ See also
 
 ## Content
 
--
+- Tool for calculating PEWS score based on observations and age, incorporating other guidelines (ie asthma, febrile child, etc) to detect red flags
