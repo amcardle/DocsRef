@@ -35,6 +35,7 @@ import TOCInline from '@theme/TOCInline';
 - [🔗 Cornwall GP VTS Website](https://gp-training.hee.nhs.uk/cornwall/)
 - [🔗 Cornwall GP Teaching Rota](https://docs.google.com/document/d/1Vo5LZbB2s5lXR_JRyIMSrIcvG2wu2fg-xGB-Lu3PnKc/edit)
 - [🔗 Learning Log recommendations (Naturally Occurring Evidence)](https://primarycare.peninsuladeanery.nhs.uk/about-us/gp-specialty-trainees/learning-log-recommendations-naturally-occurring-evidence/)
+- [🔗 Professional Support and Wellbeing](https://primarycare.peninsuladeanery.nhs.uk/about-us/professional-support-and-well-being-south-west/)
 
 ## Guidelines
 - [🔗 NICE Guidance](https://www.nice.org.uk/guidance)
