@@ -1,11 +1,20 @@
 # Law and Paediatrics
 
 ## Consent and Capacity
+>In an emergency, where treatment is vital and waiting for parental consent would place the child at risk, treatment can proceed without consent.
 
-Gillick competency - "the parental right to determine whether or not a child below the age of 16yrs will or will not have medical treatment terminates if and when the child achieves sufficient understanding and intelligence to enable him to understand fully what is proposed"
+\- https://www.nhs.uk/conditions/consent-to-treatment/children/
 
 
-"The adolescent must possess qualities associated with self-determination and self-identity, appropriate cognitive abilities, and the ability to rationalize and reason hypothetically. Understanding, intelligence, and experience are also important qualities that may determine competence"
+>You can provide emergency treatment without consent to save the life of, or prevent serious deterioration in the health of, a child or young person
+
+\- [GMC Guidelines](https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/0-18-years/making-decisions)
+
+
+> "the parental right to determine whether or not a child below the age of 16yrs will or will not have medical treatment terminates if and when the child achieves sufficient understanding and intelligence to enable him to understand fully what is proposed"
+
+
+> "The adolescent must possess qualities associated with self-determination and self-identity, appropriate cognitive abilities, and the ability to rationalize and reason hypothetically. Understanding, intelligence, and experience are also important qualities that may determine competence"
 
 Consent can be given by
 - The child if aged > 16 years (presumed to have capacity)
